@@ -1,16 +1,16 @@
 # automaton-schema-intellisense README
 
-Intellisense for Automaton JSON schema. Activates on `*.atmt.json` files. Automaton is a JSON based schema to describe chatbots dialog tree and customize the flow during runtime using pure javascript functions. Describe your dialog tree in 
+Intellisense for Automaton JSON schema. Activates on `botc.json` files. Automaton is a JSON based schema to describe chatbots dialog tree and customize the flow during runtime using pure javascript functions. Describe your dialog tree in JSON, write code only for business logic.
 
 ## Features
 
-![DEMO](https://github.com/abhivijay96/automaton-vscode/raw/master/images/demo.gif)
+![DEMO](/images/demo.gif)
 
 > GIF shows using intellisense to quickly write a correct automaton schema.
 
 ## Requirements
 
-Install `atmt` to compile `*.atmt.json`, install `atmt` with `npm install -g atmt`
+Install `botc` to compile `bot.json`, install `botc` with `npm install -g botc`
 
 ## Release Notes
 
