@@ -1,7 +1,7 @@
 {
-    "name": "automaton-schema-intellisense",
-    "displayName": "Automaton Schema Intellisense",
-    "description": "Automaton JSON schema validator",
+    "name": "bot-compiler-schema-support",
+    "displayName": "Bot compiler Schema Intellisense",
+    "description": "Bot compiler JSON schema validator",
     "version": "1.0.0",
     "publisher": "abhivijay96",
     "engines": {
@@ -15,7 +15,7 @@
     "contributes": {
         "jsonValidation": [
             {
-                "fileMatch": "*.atmt.json",
+                "fileMatch": "bot.json",
                 "url": "./schema.json"
             }
         ]
@@ -31,9 +31,9 @@
         "@types/node": "^7.0.43",
         "@types/mocha": "^2.2.42"
     },
-    "icon": "automaton_icon.png",
+    "icon": "icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/abhivijay96/automaton-vscode"
+        "url": "https://github.com/bot-compiler/botc-vscode"
     }
 }

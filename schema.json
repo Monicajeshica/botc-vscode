@@ -327,7 +327,7 @@
 				{
 					"label": "New state in this microbot",
 					"body": {
-						"name": "$stateName",
+						"name": "start",
 						"response": {},
 						"transitions": []
 					}
