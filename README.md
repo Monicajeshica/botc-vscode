@@ -1,6 +1,8 @@
 # Bot compiler-schema-intellisense README
 
-Intellisense for Bot compiler JSON schema. Activates on `botc.json` files. Bot compiler is a JSON based schema to describe chatbots dialog tree and customize the flow during runtime using pure javascript functions. Describe your dialog tree in JSON, write code only for business logic.
+> Schema language support for [Bot Compiler](https://abhivijay96.gitbooks.io/bot-compiler/content/) 
+
+Intellisense for Bot compiler JSON schema. Activates on `bot.json` files. Bot compiler is a JSON based schema to describe chatbots dialog tree and customize the flow during runtime using pure javascript functions. Describe your dialog tree in JSON, write code only for business logic.
 
 ## Features
 
